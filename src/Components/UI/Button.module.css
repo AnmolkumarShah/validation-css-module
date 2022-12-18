@@ -1,0 +1,15 @@
+.btn {
+    margin: 10px 0;
+    width: 20%;
+    height: 30px;
+    background-color: blueviolet;
+    border: 1px solid rgb(47, 10, 253);
+    color: wheat;
+    box-shadow: 1px 1px 30px black;
+}
+
+.btn.invalid {
+    color: blue;
+    font-weight: bolder;
+    background-color: red;
+}
